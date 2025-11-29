@@ -81,3 +81,7 @@ Este es un repositorio de documentación, por lo que no requiere instalación co
     git clone [https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories](https://docs.github.com/es/repositories/creating-and-managing-repositories/quickstart-for-repositories)
     ```
 2.  **Visualizar:** Abre la carpeta en **Visual Studio Code** para explorar los archivos `.md` y usar la vista previa de Markdown.
+
+##  Contribuciones
+
+Agradecemos cualquier contribución para mejorar esta documentación.
